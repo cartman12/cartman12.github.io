@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: "If we hav data lets go with data, if all we have is opinions, lets go witg mine"
+subtitle: "If we have data, let’s look at data. If all we have are opinions, let’s go with mine."
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Mohamad Ali Nasser, I am an aspiring Data Scientist and Machine Learning Expert
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Started the journey to data on the 22nd of April 2019
