@@ -14,6 +14,6 @@ Previous exeprience in:
 
 2) 2016 - 2017 - Financial Group Controller with Schneider Brothers - U.K and France
 
-3) 2017 - 2019 - SEO, mutli-channel marketplace and ecommerce Consultant - I set you up and you lead the way.
+3) 2017 - 2019 - SEO, mutli-channel marketplace and ecommerce Consultant - I set you up and you lead the way - France
 
 But the real journey started on the 22nd of April 2019 - towards data!
