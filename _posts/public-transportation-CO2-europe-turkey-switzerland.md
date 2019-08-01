@@ -2,7 +2,7 @@
 layout: post
 title: Public Transportation, Private cars, and CO2 Emission: The case of Europe, Turkey and Switzerland
 subtitle: More cars less CO2
-image: '/img/Europe's_CO2_emission_car_transportation_percentgae_animated plot.gif'
+image: '/img/Europe's_CO2_emission_car_transportation_percentgae_animated%20plot.gif'
 tags: [data science, Europe CO2 emission, Turkey and Switzerland public transportation, animated europe graph]
 ---
 
