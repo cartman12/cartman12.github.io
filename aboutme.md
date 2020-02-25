@@ -4,16 +4,19 @@ title: About me
 subtitle: " 'If we have data, let’s look at data. If all we have are opinions, let’s go with mine.' "
 ---
 
-My name is Mohamad Ali Nasser, I am an aspiring Data Scientist and Machine Learning student at LambdaSchool.
+I am a Data Scientist with focus on predictive models, positive unlabled learning and image recognition. Previously worked as a digital project manager with a focus on Search Engine Marketing, Technial SEO, mutli-channel marketplace, e-commerce shop management and implmentation. I succesffully transfered the modus operandi from offline to online.
 
-### My history
+I am both French and Lebanese.
+Currently in Paris. Breaking into Barcelona.
 
-Previous exeprience in:
+### Connect via:
 
-1) 2011 - 2016 - Rough Diamonds - Operations - Buy from Africa sell in Belgium and Dubai
+LinkedIn
+Github
+Twitter
 
-2) 2016 - 2017 - Financial Group Controller with Schneider Brothers - U.K and France
+### Download CV:
 
-3) 2017 - 2019 - SEO, mutli-channel marketplace and ecommerce Consultant - I set you up and you lead the way - France
 
-But the real journey started on the 22nd of April 2019 - towards data!
+
+
