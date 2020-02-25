@@ -11,11 +11,11 @@ I am both French and Lebanese - Currently in Paris. Breaking into Barcelona.
 ### Connect via:
 
 <a href="https://www.linkedin.com/in/mohamad-ali-nasser-data-scientist/" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
-[LinkedIn] (https://www.linkedin.com/in/mohamad-ali-nasser-data-scientist/)
+ [LinkedIn](https://www.linkedin.com/in/mohamad-ali-nasser-data-scientist/)
 
-<a href="https://github.com/mohamad-ali-nasser" title="Github"><i class="fa fa-github"></i></a>[Github] (https://github.com/mohamad-ali-nasser)
+<a href="https://github.com/mohamad-ali-nasser" title="Github"><i class="fa fa-github"></i></a> [Github](https://github.com/mohamad-ali-nasser)
 
-<a href="https://twitter.com/mhd_ali_nasser" title="Twitter"><i class="fa fa-twitter"></i></a>[Twitter] (https://twitter.com/mhd_ali_nasser)
+<a href="https://twitter.com/mhd_ali_nasser" title="Twitter"><i class="fa fa-twitter"></i></a> [Twitter](https://twitter.com/mhd_ali_nasser)
 
 
 ### Download CV:
