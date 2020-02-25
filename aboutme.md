@@ -11,7 +11,9 @@ I am both French and Lebanese - Currently in Paris. Breaking into Barcelona.
 ### Connect via:
 
 [LinkedIn] (https://www.linkedin.com/in/mohamad-ali-nasser-data-scientist/)
+
 [Github] (https://github.com/mohamad-ali-nasser)
+
 [Twitter] (https://twitter.com/mhd_ali_nasser)
 
 ### Download CV:
