@@ -6,9 +6,6 @@ subtitle: Supporting scientists in discovering new exoplanets
 image: >-
   /img/transit_light_mohamad_ali_nasser_machine_learning.png?raw=true
 ---
-## Supporting scientists in discovering new exoplanets
-
-
 The project's objective was to source data from the TESS Telescope and to create a model, using Neural Networks, that identifies the likelihood that an object orbiting a star is an exoplanet or not. 
 Furthermore, working with a front-end team, we created a user interface where we crowd source the identification process by giving users an option to vote on the likelihood that the transit light curves and intensity indicate that the star has exoplanets.
 
