@@ -1,7 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: Finding Exoplanets
+subtitle: Supporting scientists in discovering new exoplanets
+image: >-
+  https://github.com/mohamad-ali-nasser/mohamad-ali-nasser.github.io/blob/master/img/transit_light_mohamad_ali_nasser_machine_learning.png?raw=true
 ---
 ## Supporting scientists in discovering new exoplanets
 
