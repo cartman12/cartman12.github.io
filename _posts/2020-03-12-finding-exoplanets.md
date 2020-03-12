@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Finding Exoplanets
 ---
-## Support scientist in discovering new exoplanets
+## Supporting scientists in discovering new exoplanets
 
 
 The project's objective was to source data from the TESS Telescope and to create a model, using Neural Networks, that identifies the likelihood that an object orbiting a star is an exoplanet or not. 
