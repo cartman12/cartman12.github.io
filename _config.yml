@@ -25,13 +25,13 @@ description: 'If we have data, let’s look at data. If all we have are opinions
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - GitHub Pages: "https://github.com/mohamad-ali-nasser"
+    - GitHub Page: "https://github.com/mohamad-ali-nasser"
     - LinkedIn Page: "https://www.linkedin.com/in/mohamad-ali-nasser-data-scientist/"
   Where I Live: "https://stackoverflow.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/M A N.jpg"
+avatar: "/img/python.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
