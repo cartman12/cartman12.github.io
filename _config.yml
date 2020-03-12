@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Mohamad Ali Nasser - In Data We Should Trust
+title: Mohamad Ali Nasser - In Data We Trust
 
 # Short description of your site
 description: 'If we have data, let’s look at data. If all we have are opinions, let’s go with mine.'
@@ -26,7 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - GitHub Pages: "https://github.com/mohamad-ali-nasser"
-  Author's home: "https://stackoverflow.com"
+    - LinkedIn Page: "https://www.linkedin.com/in/mohamad-ali-nasser-data-scientist/"
+  Where I Live: "https://stackoverflow.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,7 +43,7 @@ avatar: "/img/M A N.jpg"
 
 navbar-col: "#A8D0E6"
 navbar-text-col: "#202121"
-navbar-children-col: "#202121"
+navbar-children-col: "#000000"
 page-col: "#FFF"
 link-col: "#49c5b6"
 hover-col: "#49c5b6"
