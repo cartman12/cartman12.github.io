@@ -17,7 +17,6 @@ I am both French and Lebanese - Currently in Paris. Breaking into Barcelona.
 
 <a href="https://github.com/mohamad-ali-nasser" title="Github"><i class="fa fa-github"></i></a> [Github](https://github.com/mohamad-ali-nasser)
 
-<a href="https://twitter.com/mhd_ali_nasser" title="Twitter"><i class="fa fa-twitter"></i></a> [Twitter](https://twitter.com/mhd_ali_nasser)
 
 
 ### Download CV:
