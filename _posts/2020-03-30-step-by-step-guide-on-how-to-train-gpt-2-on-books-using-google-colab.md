@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Step-by-step guide on how to train GPT-2 on books using Google Colab
-image: 'image: /img/train_gpt2_google_colab_notebook.png?raw=true'
+image: 'image:/img/train_gpt2_google_colab_notebook.png'
 ---
 I created this step-by-step guide for those looking to fine-tune a GPT2, you can use Google Colab or Jupyter notebook.
 
